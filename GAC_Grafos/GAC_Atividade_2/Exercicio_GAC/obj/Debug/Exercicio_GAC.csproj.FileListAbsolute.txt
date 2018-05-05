@@ -1,0 +1,6 @@
+C:\Users\GGX_L\source\repos\Exercicio_GAC\Exercicio_GAC\bin\Debug\Exercicio_GAC.exe.config
+C:\Users\GGX_L\source\repos\Exercicio_GAC\Exercicio_GAC\bin\Debug\Exercicio_GAC.exe
+C:\Users\GGX_L\source\repos\Exercicio_GAC\Exercicio_GAC\bin\Debug\Exercicio_GAC.pdb
+C:\Users\GGX_L\source\repos\Exercicio_GAC\Exercicio_GAC\obj\Debug\Exercicio_GAC.csproj.CoreCompileInputs.cache
+C:\Users\GGX_L\source\repos\Exercicio_GAC\Exercicio_GAC\obj\Debug\Exercicio_GAC.exe
+C:\Users\GGX_L\source\repos\Exercicio_GAC\Exercicio_GAC\obj\Debug\Exercicio_GAC.pdb

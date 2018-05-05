@@ -1,0 +1,7 @@
+c:\users\ggx_l\source\repos\Atividade_GAC\Atividade_GAC\bin\Debug\Atividade_GAC.exe.config
+c:\users\ggx_l\source\repos\Atividade_GAC\Atividade_GAC\bin\Debug\Atividade_GAC.exe
+c:\users\ggx_l\source\repos\Atividade_GAC\Atividade_GAC\bin\Debug\Atividade_GAC.pdb
+c:\users\ggx_l\source\repos\Atividade_GAC\Atividade_GAC\obj\Debug\Atividade_GAC.csprojResolveAssemblyReference.cache
+c:\users\ggx_l\source\repos\Atividade_GAC\Atividade_GAC\obj\Debug\Atividade_GAC.csproj.CoreCompileInputs.cache
+c:\users\ggx_l\source\repos\Atividade_GAC\Atividade_GAC\obj\Debug\Atividade_GAC.exe
+c:\users\ggx_l\source\repos\Atividade_GAC\Atividade_GAC\obj\Debug\Atividade_GAC.pdb
